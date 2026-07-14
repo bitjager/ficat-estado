@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-07-14 00:23",
+    "actualizado": "2026-07-14 00:24",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -89,12 +89,6 @@
                 "ENTREGADO",
                 "LISTO_ENTREGA",
                 "ENTREGADO",
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM001-140726": {
-            "estatus": "GENERADA",
-            "tramites": [
                 "EN_PROCESO"
             ]
         }
