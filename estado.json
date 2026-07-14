@@ -88,7 +88,7 @@
             "tramites": [
                 "ENTREGADO",
                 "LISTO_ENTREGA",
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "EN_PROCESO"
             ]
         }
