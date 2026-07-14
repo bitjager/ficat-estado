@@ -91,12 +91,6 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
-        },
-        "TEST-NUBE-1": {
-            "estatus": "ATENDIDA",
-            "tramites": [
-                "ENTREGADO"
-            ]
         }
     }
 }
