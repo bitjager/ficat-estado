@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-07-13 23:13",
+    "actualizado": "2026-07-13 23:17",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -90,6 +90,12 @@
                 "LISTO_ENTREGA",
                 "EN_PROCESO",
                 "EN_PROCESO"
+            ]
+        },
+        "TEST-NUBE-1": {
+            "estatus": "GENERADA",
+            "tramites": [
+                "LISTO_ENTREGA"
             ]
         }
     }
