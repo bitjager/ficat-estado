@@ -97,6 +97,12 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "CM010-130726": {
+            "estatus": "GENERADA",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
