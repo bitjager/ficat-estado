@@ -182,12 +182,17 @@
     );
   }
 
+  function listaNumeros(numeros) {
+    if (numeros.length === 1) return String(numeros[0]);
+    return numeros.slice(0, -1).join(', ') + ' y ' + numeros[numeros.length - 1];
+  }
+
   function mostrarFicha(folio, datos, actualizado) {
     var filas = '';
-    var hayListo = false;
+    var numerosListos = [];
     (datos.tramites || []).forEach(function (estado, i) {
       var et = ETIQUETAS[estado] || ETIQUETAS.EN_PROCESO;
-      if (estado === 'LISTO_ENTREGA') hayListo = true;
+      if (estado === 'LISTO_ENTREGA') numerosListos.push(i + 1);
       filas += '<div class="tramite-fila">' +
         '<div class="tramite-num">' + (i + 1) + '</div>' +
         '<div class="tramite-info">' +
@@ -196,8 +201,9 @@
       '</div>';
     });
 
-    var avisoGeneral = hayListo
-      ? '<div class="aviso-listo-general">Favor de pasar a Catastro Municipal a recoger su(s) trámite(s).</div>'
+    var avisoGeneral = numerosListos.length
+      ? '<div class="aviso-listo-general">Favor de pasar a Catastro Municipal a recoger su(s) trámite(s) ' +
+        (numerosListos.length === 1 ? 'Número ' : 'Números ') + listaNumeros(numerosListos) + '</div>'
       : '';
 
     resultado.innerHTML = tarjetaHtml(
