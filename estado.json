@@ -93,9 +93,9 @@
             ]
         },
         "TEST-NUBE-1": {
-            "estatus": "ATENDIDA",
+            "estatus": "GENERADA",
             "tramites": [
-                "ENTREGADO"
+                "LISTO_ENTREGA"
             ]
         }
     }
