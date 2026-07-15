@@ -107,9 +107,9 @@
             ]
         },
         "CM001-150726": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM002-150726": {
