@@ -177,6 +177,13 @@
             "estatus": "CANCELADA",
             "fecha": "18\/07\/2026 · 16:35 hrs",
             "tramites": []
+        },
+        "PRUEBA-CM002-180726": {
+            "estatus": "GENERADA",
+            "fecha": "18\/07\/2026 · 16:35 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
