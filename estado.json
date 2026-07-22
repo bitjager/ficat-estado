@@ -679,7 +679,7 @@
             "estatus": "GENERADA",
             "fecha": "22\/07\/2026 · 09:12 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "LISTO_ENTREGA"
             ]
         },
