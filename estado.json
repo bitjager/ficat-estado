@@ -713,10 +713,10 @@
             ]
         },
         "CM009-220726": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "22\/07\/2026 · 10:19 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM010-220726": {
