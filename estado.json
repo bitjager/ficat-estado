@@ -743,10 +743,10 @@
             ]
         },
         "CM013-220726": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "22\/07\/2026 · 10:59 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM014-220726": {
