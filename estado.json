@@ -1434,7 +1434,7 @@
             "tramites": [
                 "ENTREGADO",
                 "ENTREGADO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM021-280726": {
