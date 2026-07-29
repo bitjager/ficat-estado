@@ -255,6 +255,16 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "PRUEBA-CM007-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:41 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
