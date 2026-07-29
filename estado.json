@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-07-28 21:38",
+    "actualizado": "2026-07-28 21:41",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -219,6 +219,36 @@
         "PRUEBA-CM003-280726": {
             "estatus": "GENERADA",
             "fecha": "28\/07\/2026 · 21:38 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM004-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:41 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM005-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:41 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM006-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:41 hrs",
             "tramites": [
                 "EN_PROCESO",
                 "EN_PROCESO",
