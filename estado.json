@@ -205,6 +205,26 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "PRUEBA-CM002-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:38 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM003-280726": {
+            "estatus": "GENERADA",
+            "fecha": "28\/07\/2026 · 21:38 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
