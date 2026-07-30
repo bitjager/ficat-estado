@@ -290,6 +290,34 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "PRUEBA-CM002-300726": {
+            "estatus": "GENERADA",
+            "fecha": "30\/07\/2026 · 17:40 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM003-300726": {
+            "estatus": "GENERADA",
+            "fecha": "30\/07\/2026 · 17:40 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM004-300726": {
+            "estatus": "GENERADA",
+            "fecha": "30\/07\/2026 · 17:40 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM005-300726": {
+            "estatus": "GENERADA",
+            "fecha": "30\/07\/2026 · 17:40 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
