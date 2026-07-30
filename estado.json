@@ -311,27 +311,6 @@
             "tramites": [
                 "EN_PROCESO"
             ]
-        },
-        "PRUEBA-CM005-300726": {
-            "estatus": "GENERADA",
-            "fecha": "30\/07\/2026 · 17:41 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM006-300726": {
-            "estatus": "GENERADA",
-            "fecha": "30\/07\/2026 · 17:41 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM007-300726": {
-            "estatus": "GENERADA",
-            "fecha": "30\/07\/2026 · 17:41 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
         }
     }
 }
