@@ -1516,10 +1516,10 @@
             ]
         },
         "CM005-300726": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "30\/07\/2026 · 09:42 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM006-300726": {
