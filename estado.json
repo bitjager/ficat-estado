@@ -418,13 +418,13 @@
             ]
         },
         "CM017-200726": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "20\/07\/2026 · 14:56 hrs",
             "tramites": [
                 "ENTREGADO",
                 "ENTREGADO",
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM001-210726": {
