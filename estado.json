@@ -1682,7 +1682,7 @@
             "fecha": "31\/07\/2026 · 11:26 hrs",
             "tramites": [
                 "ENTREGADO",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO"
