@@ -1733,7 +1733,7 @@
             "fecha": "31\/07\/2026 · 13:00 hrs",
             "tramites": [
                 "ENTREGADO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM018-310726": {
