@@ -1703,10 +1703,10 @@
             ]
         },
         "CM016-030826": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "03\/08\/2026 · 13:07 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM017-030826": {
