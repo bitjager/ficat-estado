@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-03 13:45",
+    "actualizado": "2026-08-03 15:11",
     "fichas": {
         "CM002-140726": {
             "estatus": "EXPORTADA",
@@ -434,13 +434,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM005-210726": {
-            "estatus": "EXPORTADA",
-            "fecha": "21\/07\/2026 · 09:40 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM007-210726": {
             "estatus": "EXPORTADA",
             "fecha": "21\/07\/2026 · 09:56 hrs",
@@ -498,13 +491,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM015-210726": {
-            "estatus": "EXPORTADA",
-            "fecha": "21\/07\/2026 · 11:18 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM016-210726": {
             "estatus": "EXPORTADA",
             "fecha": "21\/07\/2026 · 11:27 hrs",
@@ -535,27 +521,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM020-210726": {
-            "estatus": "EXPORTADA",
-            "fecha": "21\/07\/2026 · 12:25 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM001-220726": {
-            "estatus": "EXPORTADA",
-            "fecha": "22\/07\/2026 · 08:36 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM002-220726": {
-            "estatus": "EXPORTADA",
-            "fecha": "22\/07\/2026 · 09:01 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM004-220726": {
             "estatus": "EXPORTADA",
             "fecha": "22\/07\/2026 · 09:26 hrs",
@@ -576,13 +541,6 @@
             "fecha": "22\/07\/2026 · 09:49 hrs",
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM008-220726": {
-            "estatus": "EXPORTADA",
-            "fecha": "22\/07\/2026 · 10:01 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM011-220726": {
@@ -729,13 +687,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM014-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 11:18 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM015-230726": {
             "estatus": "EXPORTADA",
             "fecha": "23\/07\/2026 · 11:28 hrs",
@@ -757,39 +708,11 @@
                 "EN_PROCESO"
             ]
         },
-        "CM018-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 12:17 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM019-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 12:23 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM020-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 12:30 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM021-230726": {
             "estatus": "EXPORTADA",
             "fecha": "23\/07\/2026 · 12:50 hrs",
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM022-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 12:59 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM023-230726": {
@@ -818,13 +741,6 @@
             "fecha": "23\/07\/2026 · 13:52 hrs",
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM029-230726": {
-            "estatus": "EXPORTADA",
-            "fecha": "23\/07\/2026 · 14:17 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM030-230726": {
@@ -930,13 +846,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM015-240726": {
-            "estatus": "EXPORTADA",
-            "fecha": "24\/07\/2026 · 12:54 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM016-240726": {
             "estatus": "EXPORTADA",
             "fecha": "24\/07\/2026 · 13:03 hrs",
@@ -1040,39 +949,11 @@
                 "EN_PROCESO"
             ]
         },
-        "CM010-270726": {
-            "estatus": "EXPORTADA",
-            "fecha": "27\/07\/2026 · 11:04 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM011-270726": {
-            "estatus": "EXPORTADA",
-            "fecha": "27\/07\/2026 · 11:08 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM013-270726": {
             "estatus": "EXPORTADA",
             "fecha": "27\/07\/2026 · 11:47 hrs",
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM014-270726": {
-            "estatus": "EXPORTADA",
-            "fecha": "27\/07\/2026 · 11:55 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
-        "CM015-270726": {
-            "estatus": "EXPORTADA",
-            "fecha": "27\/07\/2026 · 12:02 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM016-270726": {
@@ -1825,7 +1706,7 @@
             "estatus": "GENERADA",
             "fecha": "03\/08\/2026 · 13:07 hrs",
             "tramites": [
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM017-030826": {
