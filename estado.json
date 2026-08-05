@@ -233,7 +233,7 @@
                 "LISTO_ENTREGA",
                 "EN_ESTADO_CUENTA",
                 "EN_PROCESO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "PRUEBA-CM005-280726": {
