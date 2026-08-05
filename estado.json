@@ -221,7 +221,7 @@
             "fecha": "28\/07\/2026 · 21:38 hrs",
             "tramites": [
                 "EN_PROCESO",
-                "EN_ESTADO_CUENTA",
+                "LISTO_ENTREGA",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
