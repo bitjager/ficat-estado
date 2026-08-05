@@ -114,6 +114,7 @@
   .badge-proceso   { background: #f2e4e8; color: var(--guinda); }
   .badge-listo     { background: var(--dorado-suave); color: #7a5a1e; }
   .badge-entregado { background: var(--ok-fondo); color: var(--ok); }
+  .badge-estadocuenta { background:#dce7f5; color:#2f5d8a; }
 
   .aviso-cancelada, .aviso-error, .aviso-noencontrado {
     border-radius: var(--radio);
@@ -167,7 +168,8 @@
   var ETIQUETAS = {
     EN_PROCESO:    { texto: 'En proceso de atención', clase: 'badge-proceso' },
     LISTO_ENTREGA: { texto: 'Listo para entrega',      clase: 'badge-listo' },
-    ENTREGADO:     { texto: 'Entregado',                clase: 'badge-entregado' }
+    ENTREGADO:     { texto: 'Entregado',                clase: 'badge-entregado' },
+    EN_ESTADO_CUENTA: { texto: 'En Estado de Cuenta', clase: 'badge-estadocuenta' }
   };
 
   function tarjetaHtml(interior) {
