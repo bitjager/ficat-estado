@@ -1758,11 +1758,9 @@
             ]
         },
         "CM007-100826": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "10\/08\/2026 · 10:28 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         }
     }
 }
