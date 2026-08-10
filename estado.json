@@ -1793,11 +1793,9 @@
             ]
         },
         "CM012-100826": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "10\/08\/2026 · 11:19 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         }
     }
 }
