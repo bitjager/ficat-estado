@@ -1432,7 +1432,7 @@
             "tramites": [
                 "ENTREGADO",
                 "ENTREGADO",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
         },
