@@ -276,13 +276,6 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
-        },
-        "PRUEBA-CM001-130826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:47 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
         }
     }
 }
