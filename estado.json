@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-12 17:46",
+    "actualizado": "2026-08-12 17:47",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -277,58 +277,9 @@
                 "EN_PROCESO"
             ]
         },
-        "PRUEBA-CM001-120826": {
+        "PRUEBA-CM001-130826": {
             "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:45 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM002-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM003-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM004-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM005-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM006-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM007-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "PRUEBA-CM008-120826": {
-            "estatus": "GENERADA",
-            "fecha": "12\/08\/2026 · 17:46 hrs",
+            "fecha": "12\/08\/2026 · 17:47 hrs",
             "tramites": [
                 "EN_PROCESO"
             ]
