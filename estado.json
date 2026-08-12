@@ -283,6 +283,13 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "PRUEBA-CM002-120826": {
+            "estatus": "GENERADA",
+            "fecha": "12\/08\/2026 · 17:44 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
