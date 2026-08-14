@@ -2364,6 +2364,13 @@
             "estatus": "CANCELADA",
             "fecha": "14\/08\/2026 · 10:31 hrs",
             "tramites": []
+        },
+        "CM011-140826": {
+            "estatus": "GENERADA",
+            "fecha": "14\/08\/2026 · 10:32 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
