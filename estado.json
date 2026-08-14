@@ -1984,10 +1984,10 @@
             ]
         },
         "CM007-120826": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "12\/08\/2026 · 09:10 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM008-120826": {
