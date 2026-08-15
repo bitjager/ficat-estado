@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-14 21:15",
+    "actualizado": "2026-08-14 21:24",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -320,12 +320,10 @@
                 "EN_PROCESO"
             ]
         },
-        "CM940-TEST37A": {
-            "estatus": "GENERADA",
-            "fecha": "14\/08\/2026 · 21:13 hrs",
-            "tramites": [
-                "EN_ESTADO_CUENTA"
-            ]
+        "CM950-TESTKPI": {
+            "estatus": "CANCELADA",
+            "fecha": "14\/08\/2026 · 21:24 hrs",
+            "tramites": []
         }
     }
 }
