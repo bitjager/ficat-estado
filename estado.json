@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-14 19:59",
+    "actualizado": "2026-08-14 20:08",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -298,25 +298,11 @@
                 "EN_PROCESO"
             ]
         },
-        "CM910-TEST35A": {
+        "PRUEBA-CM001-140826": {
             "estatus": "GENERADA",
-            "fecha": "14\/08\/2026 · 19:56 hrs",
+            "fecha": "14\/08\/2026 · 20:08 hrs",
             "tramites": [
-                "EN_ESTADO_CUENTA"
-            ]
-        },
-        "CM911-TEST35B": {
-            "estatus": "GENERADA",
-            "fecha": "14\/08\/2026 · 19:56 hrs",
-            "tramites": [
-                "EN_ESTADO_CUENTA"
-            ]
-        },
-        "CM912-TEST35C": {
-            "estatus": "GENERADA",
-            "fecha": "14\/08\/2026 · 19:56 hrs",
-            "tramites": [
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         }
     }
