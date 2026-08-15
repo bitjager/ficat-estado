@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-14 19:58",
+    "actualizado": "2026-08-14 19:59",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -309,7 +309,7 @@
             "estatus": "GENERADA",
             "fecha": "14\/08\/2026 · 19:56 hrs",
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM912-TEST35C": {
