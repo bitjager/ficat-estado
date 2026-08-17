@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-17 11:16",
+    "actualizado": "2026-08-17 11:29",
     "fichas": {
         "CM002-140726": {
             "estatus": "EXPORTADA",
@@ -1696,11 +1696,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM012-100826": {
-            "estatus": "CANCELADA",
-            "fecha": "10\/08\/2026 · 11:19 hrs",
-            "tramites": []
-        },
         "CM013-100826": {
             "estatus": "EXPORTADA",
             "fecha": "10\/08\/2026 · 11:21 hrs",
@@ -2491,6 +2486,21 @@
         "CM014-170826": {
             "estatus": "GENERADA",
             "fecha": "17\/08\/2026 · 11:16 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "CM015-170826": {
+            "estatus": "GENERADA",
+            "fecha": "17\/08\/2026 · 11:23 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "CM016-170826": {
+            "estatus": "GENERADA",
+            "fecha": "17\/08\/2026 · 11:29 hrs",
             "tramites": [
                 "EN_PROCESO"
             ]
