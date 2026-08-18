@@ -2172,10 +2172,10 @@
             "tramites": []
         },
         "CM012-130826": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "13\/08\/2026 · 10:38 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM013-130826": {
