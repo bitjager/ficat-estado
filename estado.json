@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-18 21:07",
+    "actualizado": "2026-08-18 21:17",
     "fichas": {
         "CM001-110726": {
             "estatus": "EXPORTADA",
@@ -309,7 +309,7 @@
             "estatus": "GENERADA",
             "fecha": "14\/08\/2026 · 20:08 hrs",
             "tramites": [
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "PRUEBA-CM003-140826": {
@@ -332,6 +332,13 @@
             "fecha": "15\/08\/2026 · 11:09 hrs",
             "tramites": [
                 "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CMTEST-180826": {
+            "estatus": "GENERADA",
+            "fecha": "18\/08\/2026 · 10:00 hrs",
+            "tramites": [
+                "EN_ESTADO_CUENTA"
             ]
         }
     }
