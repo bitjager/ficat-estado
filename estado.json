@@ -2780,7 +2780,7 @@
             "fecha": "19\/08\/2026 · 12:35 hrs",
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
         },
