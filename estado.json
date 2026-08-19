@@ -2779,7 +2779,7 @@
             "estatus": "GENERADA",
             "fecha": "19\/08\/2026 · 12:35 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
