@@ -1545,7 +1545,7 @@
             "estatus": "EXPORTADA",
             "fecha": "07\/08\/2026 · 13:18 hrs",
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM001-100826": {
@@ -1621,13 +1621,6 @@
             "tramites": [
                 "EN_PROCESO",
                 "EN_PROCESO"
-            ]
-        },
-        "CM014-100826": {
-            "estatus": "EXPORTADA",
-            "fecha": "10\/08\/2026 · 11:35 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM015-100826": {
