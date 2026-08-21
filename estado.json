@@ -1761,7 +1761,7 @@
             "estatus": "GENERADA",
             "fecha": "11\/08\/2026 · 11:54 hrs",
             "tramites": [
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "EN_PROCESO"
             ]
         },
