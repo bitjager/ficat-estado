@@ -2877,11 +2877,11 @@
             ]
         },
         "CM002-210826": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "21\/08\/2026 · 08:40 hrs",
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM003-210826": {
