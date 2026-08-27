@@ -2009,7 +2009,7 @@
             "fecha": "13\/08\/2026 · 14:30 hrs",
             "tramites": [
                 "EN_ESTADO_CUENTA",
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO"
             ]
         },
