@@ -3430,6 +3430,17 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "CM012-270826": {
+            "estatus": "GENERADA",
+            "fecha": "27\/08\/2026 · 11:27 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
