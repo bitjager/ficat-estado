@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-08-28 14:56",
+    "actualizado": "2026-08-28 14:57",
     "fichas": {
         "CM002-140726": {
             "estatus": "EXPORTADA",
@@ -2707,14 +2707,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM002-210826": {
-            "estatus": "EXPORTADA",
-            "fecha": "21\/08\/2026 · 08:40 hrs",
-            "tramites": [
-                "ENTREGADO",
-                "ENTREGADO"
-            ]
-        },
         "CM003-210826": {
             "estatus": "EXPORTADA",
             "fecha": "21\/08\/2026 · 08:58 hrs",
@@ -3485,7 +3477,7 @@
             "estatus": "GENERADA",
             "fecha": "28\/08\/2026 · 08:55 hrs",
             "tramites": [
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM003-280826": {
