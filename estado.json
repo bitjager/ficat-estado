@@ -3213,7 +3213,7 @@
             "estatus": "EXPORTADA",
             "fecha": "26\/08\/2026 · 11:09 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
         },
