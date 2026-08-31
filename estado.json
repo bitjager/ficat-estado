@@ -2925,11 +2925,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM021-240826": {
-            "estatus": "CANCELADA",
-            "fecha": "24\/08\/2026 · 14:47 hrs",
-            "tramites": []
-        },
         "CM022-240826": {
             "estatus": "EXPORTADA",
             "fecha": "24\/08\/2026 · 14:56 hrs",
@@ -3679,6 +3674,13 @@
         "CM017-310826": {
             "estatus": "GENERADA",
             "fecha": "31\/08\/2026 · 14:09 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "CM001-010926": {
+            "estatus": "GENERADA",
+            "fecha": "31\/08\/2026 · 14:55 hrs",
             "tramites": [
                 "EN_PROCESO"
             ]
