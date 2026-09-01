@@ -3768,7 +3768,7 @@
             "fecha": "01\/09\/2026 · 12:25 hrs",
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
