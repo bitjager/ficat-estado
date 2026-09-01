@@ -3769,7 +3769,7 @@
             "tramites": [
                 "LISTO_ENTREGA",
                 "EN_PROCESO",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
         },
