@@ -3741,11 +3741,9 @@
             ]
         },
         "CM005-020926": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "02\/09\/2026 · 09:51 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         }
     }
 }
