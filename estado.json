@@ -3870,6 +3870,14 @@
             "estatus": "CANCELADA",
             "fecha": "03\/09\/2026 · 09:15 hrs",
             "tramites": []
+        },
+        "CM003-030926": {
+            "estatus": "GENERADA",
+            "fecha": "03\/09\/2026 · 09:20 hrs",
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
