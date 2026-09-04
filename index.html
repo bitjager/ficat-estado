@@ -144,6 +144,142 @@
     color: var(--tinta-suave);
     padding: 0 16px 24px;
   }
+
+  /* ==========================================================
+     Aviso antifraude — modal que aparece una vez al día.
+     Pieza independiente: no toca ningún estilo de la consulta.
+     ========================================================== */
+  .aviso-fondo {
+    position: fixed;
+    inset: 0;
+    background: rgba(35, 15, 20, .74);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    z-index: 50;
+    animation: aviso-entra .18s ease-out;
+  }
+  .aviso-fondo[hidden] { display: none; }
+
+  .aviso-caja {
+    position: relative;
+    width: 100%;
+    max-width: 340px;
+    max-height: 100%;
+    overflow-y: auto;
+    background: var(--guinda);
+    border-radius: 14px;
+    border-left: 9px solid var(--dorado);
+    box-shadow: 0 14px 40px rgba(0, 0, 0, .45);
+    color: var(--blanco);
+    text-align: center;
+    padding: 22px 20px 24px;
+    /* Aguade concéntrico: evoca el calendario del cartel impreso
+       sin pretender copiarlo. */
+    background-image:
+      radial-gradient(circle at 50% 44%, rgba(233, 211, 171, .085) 0 1px, transparent 1px 13px),
+      radial-gradient(circle at 50% 44%, rgba(233, 211, 171, .06) 0 60px, transparent 61px);
+    background-repeat: repeat, no-repeat;
+    animation: aviso-sube .22s ease-out;
+  }
+
+  .aviso-cerrar {
+    position: absolute;
+    top: 8px; right: 8px;
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(233, 211, 171, .5);
+    background: rgba(0, 0, 0, .18);
+    color: var(--dorado-suave);
+    font-size: 17px;
+    line-height: 1;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .aviso-cerrar:hover { background: rgba(0, 0, 0, .34); color: var(--blanco); }
+  .aviso-cerrar:focus-visible { outline: 3px solid var(--dorado-suave); outline-offset: 2px; }
+
+  .aviso-icono {
+    width: 46px; height: 46px;
+    margin: 2px auto 12px;
+    border-radius: 50%;
+    background: var(--dorado);
+    color: var(--guinda-oscuro);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 25px; font-weight: 900;
+    line-height: 1;
+  }
+
+  .aviso-titulo {
+    margin: 0 0 12px;
+    font-size: 27px;
+    font-weight: 900;
+    line-height: 1.03;
+    letter-spacing: -.4px;
+    text-transform: uppercase;
+    text-wrap: balance;
+  }
+
+  .aviso-parrafo {
+    margin: 0 0 12px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.24;
+    text-wrap: balance;
+  }
+  .aviso-fuerte {
+    display: block;
+    font-size: 20px;
+    font-weight: 900;
+    color: var(--dorado-suave);
+  }
+
+  /* Letra guinda sobre dorado, no blanca: en una pantalla de celular a
+     pleno sol el blanco sobre dorado se pierde. */
+  .aviso-voucher {
+    display: inline-block;
+    background: #c9a86a;
+    color: #45111d;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 1px 7px;
+    margin: 2px 0;
+  }
+
+  .aviso-cierre {
+    margin: 16px 0 0;
+    font-size: 12px;
+    color: var(--dorado-suave);
+    opacity: .85;
+    border-top: 1px solid rgba(233, 211, 171, .28);
+    padding-top: 12px;
+    font-weight: 600;
+    letter-spacing: .3px;
+  }
+
+  /* Reabre el aviso desde el pie, por si lo cerraron sin querer. */
+  .pie-aviso {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--guinda);
+    font-weight: 700;
+    text-decoration: underline;
+    cursor: pointer;
+    background: none;
+    border: 0;
+    font-family: inherit;
+    font-size: 12px;
+    padding: 4px;
+  }
+  .pie-aviso:focus-visible { outline: 2px solid var(--guinda); outline-offset: 2px; }
+
+  @keyframes aviso-entra { from { opacity: 0 } to { opacity: 1 } }
+  @keyframes aviso-sube  { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+
+  @media (prefers-reduced-motion: reduce) {
+    .aviso-fondo, .aviso-caja { animation: none; }
+  }
 </style>
 </head>
 <body>
@@ -161,6 +297,8 @@
 <footer>
   La información se actualiza cada vez que Catastro registra un movimiento.
   Este sitio no requiere ni almacena datos personales.
+  <br>
+  <button type="button" class="pie-aviso" id="pieAviso">⚠ Aviso importante</button>
 </footer>
 
 <script>
@@ -267,6 +405,83 @@
   var params = new URLSearchParams(window.location.search);
   var folioInicial = (params.get('f') || '').trim();
   if (folioInicial) buscar(folioInicial); else mostrarSinFolio();
+})();
+</script>
+
+
+<!-- ===== Aviso antifraude ===== -->
+<div class="aviso-fondo" id="avisoFondo" role="dialog" aria-modal="true" aria-labelledby="avisoTitulo" hidden>
+  <div class="aviso-caja" id="avisoCaja">
+    <button type="button" class="aviso-cerrar" id="avisoCerrar" aria-label="Cerrar aviso">✕</button>
+
+    <div class="aviso-icono" aria-hidden="true">!</div>
+
+    <h2 class="aviso-titulo" id="avisoTitulo">No te dejes engañar</h2>
+
+    <p class="aviso-parrafo">
+      Ningún Trabajador de Catastro
+      <span class="aviso-fuerte">puede pedirte dinero.</span>
+    </p>
+
+    <p class="aviso-parrafo">
+      Si lo hace
+      <span class="aviso-fuerte">¡repórtalo! 📣 📞</span>
+    </p>
+
+    <p class="aviso-parrafo">
+      Todos los pagos se realizan con
+      <span class="aviso-voucher">Voucher de Pago de tu trámite</span>
+      en Tesorería.
+    </p>
+
+    <p class="aviso-cierre">Catastro Municipal de San Andrés Tuxtla, Ver.</p>
+  </div>
+</div>
+
+<script>
+(function () {
+  // Aviso antifraude: se muestra una vez al día por dispositivo. La
+  // preferencia vive solo en el navegador del contribuyente (la fecha de
+  // la última vez que lo vio) — no viaja al servidor ni identifica a nadie.
+  var CLAVE = 'ficat_aviso_fraude_visto';
+  var fondo  = document.getElementById('avisoFondo');
+  var caja   = document.getElementById('avisoCaja');
+  var cerrar = document.getElementById('avisoCerrar');
+  var pieBtn = document.getElementById('pieAviso');
+  var foco   = null;
+
+  function hoyTexto() {
+    var d = new Date();
+    return d.getFullYear() + '-' + (d.getMonth() + 1) + '-' + d.getDate();
+  }
+
+  function abrir() {
+    foco = document.activeElement;
+    fondo.hidden = false;
+    document.body.style.overflow = 'hidden';
+    cerrar.focus();
+  }
+
+  function ocultar() {
+    fondo.hidden = true;
+    document.body.style.overflow = '';
+    // Guardar puede fallar (modo privado, permisos): si truena, el aviso
+    // simplemente vuelve a salir. Ante la duda, gana la advertencia.
+    try { localStorage.setItem(CLAVE, hoyTexto()); } catch (e) {}
+    if (foco && foco.focus) foco.focus();
+  }
+
+  cerrar.addEventListener('click', ocultar);
+  fondo.addEventListener('click', function (ev) { if (!caja.contains(ev.target)) ocultar(); });
+  document.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Escape' && !fondo.hidden) ocultar();
+  });
+  if (pieBtn) pieBtn.addEventListener('click', abrir);
+
+  // Si no se puede leer la preferencia, se muestra igual.
+  var visto = null;
+  try { visto = localStorage.getItem(CLAVE); } catch (e) {}
+  if (visto !== hoyTexto()) abrir();
 })();
 </script>
 
