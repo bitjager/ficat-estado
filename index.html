@@ -115,6 +115,8 @@
   .badge-listo     { background: var(--dorado-suave); color: #7a5a1e; }
   .badge-entregado { background: var(--ok-fondo); color: var(--ok); }
   .badge-estadocuenta { background:#dce7f5; color:#2f5d8a; }
+  /* Requiere atención: naranja de aviso, a juego con FICAT. */
+  .badge-atencion { background:#f5ddc9; color:#954f11; }
 
   .aviso-cancelada, .aviso-error, .aviso-noencontrado {
     border-radius: var(--radio);
@@ -169,7 +171,8 @@
     EN_PROCESO:    { texto: 'En proceso de atención', clase: 'badge-proceso' },
     LISTO_ENTREGA: { texto: 'Listo para entrega',      clase: 'badge-listo' },
     ENTREGADO:     { texto: 'Entregado',                clase: 'badge-entregado' },
-    EN_ESTADO_CUENTA: { texto: 'En Estado de Cuenta', clase: 'badge-estadocuenta' }
+    EN_ESTADO_CUENTA: { texto: 'En Etapa de Revisión/Validación', clase: 'badge-estadocuenta' },
+    REQUIERE_ATENCION: { texto: 'Requiere Atención, presentarse en Departamento', clase: 'badge-atencion' }
   };
 
   function tarjetaHtml(interior) {
