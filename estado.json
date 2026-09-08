@@ -4075,8 +4075,8 @@
             "estatus": "GENERADA",
             "fecha": "07\/09\/2026 · 10:19 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM007-070926": {
