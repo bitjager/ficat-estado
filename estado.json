@@ -4161,9 +4161,9 @@
             "estatus": "GENERADA",
             "fecha": "08\/09\/2026 · 08:58 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
                 "EN_ESTADO_CUENTA"
             ]
         },
