@@ -2476,7 +2476,7 @@
             "tramites": [
                 "LISTO_ENTREGA",
                 "EN_PROCESO",
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM015-200826": {
