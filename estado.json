@@ -3047,7 +3047,7 @@
             "estatus": "EXPORTADA",
             "fecha": "27\/08\/2026 · 09:45 hrs",
             "tramites": [
-                "EN_ESTADO_CUENTA",
+                "LISTO_ENTREGA",
                 "LISTO_ENTREGA"
             ]
         },
