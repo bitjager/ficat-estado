@@ -1,187 +1,6 @@
 {
-    "actualizado": "2026-09-11 15:04",
+    "actualizado": "2026-09-14 08:14",
     "fichas": {
-        "CM002-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 09:43 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM004-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:01 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM005-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:19 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM006-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:27 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM007-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:37 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM008-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:42 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM010-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 10:55 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM011-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 11:07 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM012-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 11:17 hrs",
-            "tramites": [
-                "EN_ESTADO_CUENTA"
-            ]
-        },
-        "CM013-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 11:44 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM014-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 11:53 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM015-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 12:04 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM016-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 12:15 hrs",
-            "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
-            ]
-        },
-        "CM017-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 12:33 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM018-140726": {
-            "estatus": "EXPORTADA",
-            "fecha": "14\/07\/2026 · 12:49 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM002-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 09:12 hrs",
-            "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
-            ]
-        },
-        "CM003-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 09:20 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM004-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 09:33 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM006-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 09:50 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM008-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 10:04 hrs",
-            "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
-            ]
-        },
-        "CM009-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 10:11 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM011-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 10:21 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM012-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 10:40 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM014-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 11:41 hrs",
-            "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
-            ]
-        },
-        "CM016-150726": {
-            "estatus": "EXPORTADA",
-            "fecha": "15\/07\/2026 · 12:33 hrs",
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
         "CM002-160726": {
             "estatus": "EXPORTADA",
             "fecha": "16\/07\/2026 · 12:11 hrs",
@@ -1133,13 +952,6 @@
                 "ENTREGADO"
             ]
         },
-        "CM011-310726": {
-            "estatus": "EXPORTADA",
-            "fecha": "31\/07\/2026 · 11:53 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM012-310726": {
             "estatus": "EXPORTADA",
             "fecha": "31\/07\/2026 · 12:08 hrs",
@@ -1537,13 +1349,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM003-110826": {
-            "estatus": "EXPORTADA",
-            "fecha": "11\/08\/2026 · 08:36 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM004-110826": {
             "estatus": "EXPORTADA",
             "fecha": "11\/08\/2026 · 08:52 hrs",
@@ -1797,13 +1602,6 @@
             "fecha": "13\/08\/2026 · 10:38 hrs",
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM014-130826": {
-            "estatus": "EXPORTADA",
-            "fecha": "13\/08\/2026 · 10:54 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM016-130826": {
@@ -2696,13 +2494,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM002-250826": {
-            "estatus": "EXPORTADA",
-            "fecha": "25\/08\/2026 · 08:56 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM003-250826": {
             "estatus": "EXPORTADA",
             "fecha": "25\/08\/2026 · 09:09 hrs",
@@ -2723,13 +2514,6 @@
             "tramites": [
                 "ENTREGADO",
                 "LISTO_ENTREGA"
-            ]
-        },
-        "CM006-250826": {
-            "estatus": "EXPORTADA",
-            "fecha": "25\/08\/2026 · 09:32 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM007-250826": {
@@ -3191,13 +2975,6 @@
                 "REQUIERE_ATENCION"
             ]
         },
-        "CM010-280826": {
-            "estatus": "EXPORTADA",
-            "fecha": "28\/08\/2026 · 13:04 hrs",
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM011-280826": {
             "estatus": "EXPORTADA",
             "fecha": "28\/08\/2026 · 13:28 hrs",
@@ -3361,13 +3138,6 @@
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO"
-            ]
-        },
-        "CM017-310826": {
-            "estatus": "ATENDIDA",
-            "fecha": "31\/08\/2026 · 14:09 hrs",
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM001-010926": {
@@ -3536,7 +3306,7 @@
             "estatus": "GENERADA",
             "fecha": "02\/09\/2026 · 09:41 hrs",
             "tramites": [
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM007-020926": {
