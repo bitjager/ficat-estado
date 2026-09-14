@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-09-14 08:14",
+    "actualizado": "2026-09-14 08:15",
     "fichas": {
         "CM002-160726": {
             "estatus": "EXPORTADA",
@@ -4225,13 +4225,13 @@
             "estatus": "GENERADA",
             "fecha": "10\/09\/2026 · 13:11 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM016-100926": {
