@@ -1013,7 +1013,7 @@
             "estatus": "EXPORTADA",
             "fecha": "05\/08\/2026 · 10:37 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO"
             ]
         },
