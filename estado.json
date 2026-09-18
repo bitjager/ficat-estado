@@ -4259,7 +4259,7 @@
             "estatus": "GENERADA",
             "fecha": "17\/09\/2026 · 12:41 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_ESTADO_CUENTA"
             ]
         },
