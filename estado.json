@@ -4008,8 +4008,8 @@
             "estatus": "GENERADA",
             "fecha": "21\/09\/2026 · 13:26 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM017-210926": {
