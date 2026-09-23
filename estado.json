@@ -3984,7 +3984,7 @@
             "fecha": "21\/09\/2026 · 12:15 hrs",
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "LISTO_ENTREGA",
                 "LISTO_ENTREGA"
             ]
