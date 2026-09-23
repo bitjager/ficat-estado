@@ -3863,11 +3863,11 @@
             ]
         },
         "CM019-180926": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "18\/09\/2026 · 13:00 hrs",
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM020-180926": {
