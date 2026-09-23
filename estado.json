@@ -3983,10 +3983,10 @@
             "estatus": "GENERADA",
             "fecha": "21\/09\/2026 · 12:15 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM014-210926": {
