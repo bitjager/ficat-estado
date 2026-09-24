@@ -4427,6 +4427,13 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "CM011-240926": {
+            "estatus": "GENERADA",
+            "fecha": "24\/09\/2026 · 10:54 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
