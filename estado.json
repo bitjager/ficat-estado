@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-09-24 11:22",
+    "actualizado": "2026-09-24 11:23",
     "fichas": {
         "CM001-270726": {
             "estatus": "EXPORTADA",
@@ -4454,6 +4454,14 @@
             "estatus": "GENERADA",
             "fecha": "24\/09\/2026 · 11:19 hrs",
             "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "CM016-240926": {
+            "estatus": "GENERADA",
+            "fecha": "24\/09\/2026 · 11:23 hrs",
+            "tramites": [
+                "EN_PROCESO",
                 "EN_PROCESO"
             ]
         }
