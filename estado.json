@@ -1119,7 +1119,7 @@
             "fecha": "17\/08\/2026 · 10:44 hrs",
             "tramites": [
                 "EN_ESTADO_CUENTA",
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
