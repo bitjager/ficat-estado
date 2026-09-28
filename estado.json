@@ -4326,6 +4326,13 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "CM002-280926": {
+            "estatus": "GENERADA",
+            "fecha": "28\/09\/2026 · 10:01 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
