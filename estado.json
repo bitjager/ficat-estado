@@ -1176,8 +1176,8 @@
             "fecha": "19\/08\/2026 · 14:10 hrs",
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM024-190826": {
