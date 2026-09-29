@@ -3985,7 +3985,7 @@
             "tramites": [
                 "REQUIERE_ATENCION",
                 "REQUIERE_ATENCION",
-                "EN_PROCESO",
+                "REQUIERE_ATENCION",
                 "EN_PROCESO"
             ]
         },
