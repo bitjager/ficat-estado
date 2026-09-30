@@ -4310,11 +4310,11 @@
             "estatus": "GENERADA",
             "fecha": "29\/09\/2026 · 13:02 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM018-290926": {
