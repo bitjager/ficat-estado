@@ -4142,11 +4142,11 @@
             ]
         },
         "CM008-290926": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "29\/09\/2026 · 10:17 hrs",
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM009-290926": {
