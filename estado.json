@@ -4055,12 +4055,12 @@
             ]
         },
         "CM015-280926": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "28\/09\/2026 · 15:42 hrs",
             "tramites": [
                 "ENTREGADO",
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM001-290926": {
