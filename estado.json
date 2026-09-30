@@ -1721,7 +1721,7 @@
             "estatus": "EXPORTADA",
             "fecha": "27\/08\/2026 · 13:42 hrs",
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_PROCESO"
             ]
         },
