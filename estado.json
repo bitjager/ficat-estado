@@ -1043,8 +1043,8 @@
             "estatus": "EXPORTADA",
             "fecha": "19\/08\/2026 · 11:57 hrs",
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM019-190826": {
