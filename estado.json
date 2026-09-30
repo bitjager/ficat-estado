@@ -4059,7 +4059,7 @@
             "fecha": "28\/09\/2026 · 15:42 hrs",
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "LISTO_ENTREGA"
             ]
         },
