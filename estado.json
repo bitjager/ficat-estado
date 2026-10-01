@@ -106,6 +106,13 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "PRUEBA-CM007-300926": {
+            "estatus": "GENERADA",
+            "fecha": "30\/09\/2026 · 23:25 hrs",
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
