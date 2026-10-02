@@ -7932,6 +7932,19 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "CM007-021026": {
+            "estatus": "GENERADA",
+            "fecha": "02\/10\/2026 · 12:06 hrs",
+            "creada": "2026-10-02",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
