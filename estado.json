@@ -7641,12 +7641,12 @@
             "fecha": "01\/10\/2026 · 10:18 hrs",
             "creada": "2026-10-01",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM007-011026": {
