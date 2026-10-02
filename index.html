@@ -280,6 +280,34 @@
   @media (prefers-reduced-motion: reduce) {
     .aviso-fondo, .aviso-caja { animation: none; }
   }
+
+  /* ===== Barra de avance de la ficha (propuesta) ===== */
+  .avance { margin: 2px 0 18px; }
+  .avance-pista { display: flex; height: 14px; gap: 3px; }
+  .avance-seg { background: #ece6de; border-radius: 4px; position: relative; overflow: hidden; }
+  .avance-seg i { position: absolute; inset: 0; background: var(--guinda); transform: scaleX(0); transform-origin: left;
+                  transition: transform .5s ease; border-radius: 4px; }
+  .avance-seg.lleno i { transform: scaleX(1); }
+  .avance-s1, .avance-s2, .avance-s3 { flex: 2; }
+  .avance-s4a, .avance-s4b { flex: 1; }
+  .avance-s4a { border-radius: 4px 0 0 4px; margin-right: -3px; }
+  .avance-s4b { border-radius: 0 4px 4px 0; }
+  .avance-etiquetas { display: flex; gap: 3px; margin-top: 6px; font-size: 11px; color: var(--tinta-suave); line-height: 1.25; }
+  .avance-etiquetas span { text-align: center; }
+  .avance-etiquetas .e1, .avance-etiquetas .e2, .avance-etiquetas .e3 { flex: 2; }
+  .avance-etiquetas .e4 { flex: 2; }
+  .avance-etiquetas .activa { color: var(--guinda-oscuro); font-weight: 700; }
+  .avance-texto { margin: 10px 0 0; font-size: 13.5px; color: var(--tinta); }
+  .avance-texto strong { color: var(--guinda-oscuro); }
+  .avance.completo .avance-seg i { background: var(--ok); }
+  .avance.completo .avance-etiquetas .activa { color: var(--ok); }
+  .avance.pausa .avance-seg i { background: var(--alerta); }
+  .avance.pausa .avance-etiquetas .activa { color: var(--alerta); }
+  .avance.pausa .avance-texto, .avance.pausa .avance-texto strong { color: var(--alerta); }
+  .avance-pausa { position: absolute; top: -2px; width: 18px; height: 18px; border-radius: 50%; background: var(--alerta);
+                  color: #fff; font-size: 10px; line-height: 18px; text-align: center; transform: translateX(-50%);
+                  box-shadow: 0 0 0 2px #fff; }
+  .avance-pista-wrap { position: relative; }
 </style>
 </head>
 <body>
@@ -338,6 +366,60 @@
     return numeros.slice(0, -1).join(', ') + ' y ' + numeros[numeros.length - 1];
   }
 
+
+  // ===== Barra de avance de la ficha =====
+  var PASOS = ['Registrada', 'En atención', 'Revisión/Validación', 'Listo para entrega'];
+
+  function hoyMexico() {
+    return new Date(Date.now() - 6 * 3600 * 1000).toISOString().slice(0, 10);   // UTC-6 fijo, como FICAT
+  }
+  // Primer día HÁBIL (lunes a viernes) posterior a la fecha de creación. No considera días festivos.
+  function siguienteHabil(iso) {
+    var d = new Date(iso + 'T12:00:00Z');
+    do { d.setUTCDate(d.getUTCDate() + 1); } while (d.getUTCDay() === 0 || d.getUTCDay() === 6);
+    return d.toISOString().slice(0, 10);
+  }
+  function barraHtml(datos) {
+    var p = datos.progreso;
+    if (!p || !datos.creada) return '';                           // archivo viejo: sin barra, nada se rompe
+    var listo = !!p.listo;
+    var revision = !!p.revision || listo;
+    var regreso = (!!p.regreso && revision) || listo;
+    var dia2 = hoyMexico() >= siguienteHabil(datos.creada);       // a partir del siguiente día hábil
+    var s2 = listo || revision || dia2;
+    var pausa = (datos.tramites || []).indexOf('REQUIERE_ATENCION') > -1;
+
+    var lleno = [true, s2, revision, regreso, listo];             // s1, s2, s3, s4a, s4b
+    var paso = (listo || regreso) ? 4 : revision ? 3 : s2 ? 2 : 1;   // tras regresar de revisión ya va en el tramo final
+    var texto;
+    if (pausa)            texto = '<strong>En pausa:</strong> uno de tus trámites requiere tu atención. Preséntate en el Departamento de Catastro.';
+    else if (listo)       texto = '<strong>¡Listo!</strong> Tus trámites están listos para entrega.';
+    else if (regreso)     texto = 'Terminó la revisión. <strong>Estamos preparando tu entrega.</strong>';
+    else if (revision)    texto = 'Tu ficha está en <strong>revisión y validación</strong>.';
+    else if (s2)          texto = 'Tu ficha está <strong>en atención</strong>; Catastro trabaja en tus trámites.';
+    else                  texto = 'Tu ficha fue <strong>registrada</strong>. La atención continúa el siguiente día hábil.';
+
+    // la pausa se dibuja al final de lo ya avanzado
+    var ancho = 0; ['1', '2', '3'].forEach(function (_, i) { if (lleno[i]) ancho += 2; }); if (lleno[3]) ancho += 1; if (lleno[4]) ancho += 1;
+    var pctPausa = (ancho / 8) * 100;
+
+    var etiquetas = PASOS.map(function (n, i) {
+      return '<span class="e' + (i + 1) + (i + 1 === paso ? ' activa' : '') + '">' + n + '</span>';
+    }).join('');
+
+    return '<div class="avance' + (listo ? ' completo' : '') + (pausa ? ' pausa' : '') + '" role="progressbar" aria-valuemin="0" aria-valuemax="4" aria-valuenow="' + paso + '" aria-label="Avance de tu ficha: paso ' + paso + ' de 4">' +
+      '<div class="avance-pista-wrap"><div class="avance-pista">' +
+        '<div class="avance-seg avance-s1' + (lleno[0] ? ' lleno' : '') + '"><i></i></div>' +
+        '<div class="avance-seg avance-s2' + (lleno[1] ? ' lleno' : '') + '"><i></i></div>' +
+        '<div class="avance-seg avance-s3' + (lleno[2] ? ' lleno' : '') + '"><i></i></div>' +
+        '<div class="avance-seg avance-s4a' + (lleno[3] ? ' lleno' : '') + '"><i></i></div>' +
+        '<div class="avance-seg avance-s4b' + (lleno[4] ? ' lleno' : '') + '"><i></i></div>' +
+      '</div>' + (pausa ? '<span class="avance-pausa" style="left:' + pctPausa + '%" title="En pausa">&#10074;&#10074;</span>' : '') + '</div>' +
+      '<div class="avance-etiquetas">' + etiquetas + '</div>' +
+      '<p class="avance-texto">' + texto + '</p>' +
+      '</div>';
+  }
+
   function mostrarFicha(folio, datos, actualizado) {
     var filas = '';
     var numerosListos = [];
@@ -361,6 +443,7 @@
       '<div class="r-folio">Folio<strong>' + folio + '</strong></div>' +
       fechaHtml(datos) +
       '<div class="r-actualizado">Última actualización: ' + (actualizado || '—') + '</div>' +
+      barraHtml(datos) +
       filas +
       avisoGeneral
     );
