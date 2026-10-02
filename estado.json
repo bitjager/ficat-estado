@@ -1,9 +1,15 @@
 {
-    "actualizado": "2026-10-01 19:59",
+    "actualizado": "2026-10-01 20:27",
     "fichas": {
         "PRUEBA-CM001-120826": {
             "estatus": "GENERADA",
             "fecha": "12\/08\/2026 · 17:55 hrs",
+            "creada": "2026-08-12",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -11,6 +17,12 @@
         "PRUEBA-CM002-120826": {
             "estatus": "GENERADA",
             "fecha": "12\/08\/2026 · 18:00 hrs",
+            "creada": "2026-08-12",
+            "progreso": {
+                "revision": true,
+                "regreso": true,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -18,6 +30,12 @@
         "PRUEBA-CM003-120826": {
             "estatus": "GENERADA",
             "fecha": "12\/08\/2026 · 19:29 hrs",
+            "creada": "2026-08-12",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -25,6 +43,12 @@
         "PRUEBA-CM001-140826": {
             "estatus": "GENERADA",
             "fecha": "14\/08\/2026 · 20:08 hrs",
+            "creada": "2026-08-14",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -32,6 +56,12 @@
         "PRUEBA-CM002-140826": {
             "estatus": "GENERADA",
             "fecha": "14\/08\/2026 · 20:08 hrs",
+            "creada": "2026-08-14",
+            "progreso": {
+                "revision": true,
+                "regreso": true,
+                "listo": false
+            },
             "tramites": [
                 "REQUIERE_ATENCION"
             ]
@@ -39,6 +69,12 @@
         "PRUEBA-CM003-140826": {
             "estatus": "GENERADA",
             "fecha": "14\/08\/2026 · 20:10 hrs",
+            "creada": "2026-08-14",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO",
                 "EN_PROCESO"
@@ -47,6 +83,12 @@
         "PRUEBA-CM001-150826": {
             "estatus": "GENERADA",
             "fecha": "15\/08\/2026 · 11:07 hrs",
+            "creada": "2026-08-15",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -54,6 +96,12 @@
         "PRUEBA-CM002-150826": {
             "estatus": "GENERADA",
             "fecha": "15\/08\/2026 · 11:09 hrs",
+            "creada": "2026-08-15",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -61,6 +109,12 @@
         "PRUEBA-CM001-310826": {
             "estatus": "GENERADA",
             "fecha": "31\/08\/2026 · 20:05 hrs",
+            "creada": "2026-08-31",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -68,6 +122,12 @@
         "PRUEBA-CM001-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -75,6 +135,12 @@
         "PRUEBA-CM002-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -82,6 +148,12 @@
         "PRUEBA-CM003-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -89,6 +161,12 @@
         "PRUEBA-CM004-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -96,6 +174,12 @@
         "PRUEBA-CM005-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -103,6 +187,12 @@
         "PRUEBA-CM006-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -110,6 +200,12 @@
         "PRUEBA-CM007-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -117,6 +213,12 @@
         "PRUEBA-CM008-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -124,6 +226,12 @@
         "PRUEBA-CM009-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:25 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -131,6 +239,12 @@
         "PRUEBA-CM010-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:26 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -138,6 +252,12 @@
         "PRUEBA-CM011-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:26 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -145,6 +265,12 @@
         "PRUEBA-CM012-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:26 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -152,6 +278,12 @@
         "PRUEBA-CM013-300926": {
             "estatus": "GENERADA",
             "fecha": "30\/09\/2026 · 23:26 hrs",
+            "creada": "2026-09-30",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
@@ -159,6 +291,12 @@
         "PRUEBA-CM001-011026": {
             "estatus": "GENERADA",
             "fecha": "01\/10\/2026 · 19:59 hrs",
+            "creada": "2026-10-01",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
             "tramites": [
                 "EN_PROCESO"
             ]
