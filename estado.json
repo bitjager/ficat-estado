@@ -7515,9 +7515,9 @@
             "tramites": [
                 "EN_PROCESO",
                 "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM013-011026": {
