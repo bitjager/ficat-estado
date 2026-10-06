@@ -6864,11 +6864,11 @@
             "creada": "2026-09-29",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM012-290926": {
