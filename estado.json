@@ -7957,6 +7957,20 @@
             "estatus": "CANCELADA",
             "fecha": "06\/10\/2026 · 09:41 hrs",
             "tramites": []
+        },
+        "CM006-061026": {
+            "estatus": "GENERADA",
+            "fecha": "06\/10\/2026 · 09:47 hrs",
+            "creada": "2026-10-06",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
