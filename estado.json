@@ -923,7 +923,7 @@
             },
             "tramites": [
                 "REQUIERE_ATENCION",
-                "EN_PROCESO"
+                "REQUIERE_ATENCION"
             ]
         },
         "CM003-180826": {
