@@ -7965,17 +7965,9 @@
             ]
         },
         "CM002-071026": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "07\/10\/2026 · 09:45 hrs",
-            "creada": "2026-10-07",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         }
     }
 }
