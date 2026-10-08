@@ -6603,12 +6603,12 @@
             "creada": "2026-09-29",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
                 "EN_PROCESO",
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM013-290926": {
