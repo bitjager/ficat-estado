@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-12 21:06",
+    "actualizado": "2026-10-12 21:11",
     "fichas": {
         "PRUEBA-CM001-140826": {
             "estatus": "GENERADA",
@@ -322,6 +322,19 @@
         "PRUEBA-CM003-121026": {
             "estatus": "GENERADA",
             "fecha": "12\/10\/2026 · 20:49 hrs",
+            "creada": "2026-10-12",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM004-121026": {
+            "estatus": "GENERADA",
+            "fecha": "12\/10\/2026 · 21:11 hrs",
             "creada": "2026-10-12",
             "progreso": {
                 "revision": false,
