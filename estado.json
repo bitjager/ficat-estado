@@ -1276,12 +1276,12 @@
             "fecha": "25\/08\/2026 · 10:05 hrs",
             "creada": "2026-08-25",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM013-250826": {
