@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-12 20:49",
+    "actualizado": "2026-10-12 20:59",
     "fichas": {
         "PRUEBA-CM001-140826": {
             "estatus": "GENERADA",
@@ -314,7 +314,7 @@
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "REQUIERE_ATENCION",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
