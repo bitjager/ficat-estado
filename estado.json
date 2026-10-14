@@ -3090,7 +3090,7 @@
             },
             "tramites": [
                 "EN_ESTADO_CUENTA",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM008-080926": {
