@@ -5669,12 +5669,12 @@
             "creada": "2026-09-28",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
                 "EN_PROCESO",
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM010-280926": {
