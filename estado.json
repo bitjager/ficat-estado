@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-15 13:12",
+    "actualizado": "2026-10-15 14:11",
     "fichas": {
         "CM002-170826": {
             "estatus": "EXPORTADA",
@@ -6992,7 +6992,7 @@
             ]
         },
         "CM018-061026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "06\/10\/2026 · 12:36 hrs",
             "creada": "2026-10-06",
             "progreso": {
@@ -7005,7 +7005,7 @@
             ]
         },
         "CM001-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 09:02 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7018,7 +7018,7 @@
             ]
         },
         "CM003-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 09:57 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7032,7 +7032,7 @@
             ]
         },
         "CM004-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 10:03 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7052,7 +7052,7 @@
             ]
         },
         "CM005-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 10:11 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7065,7 +7065,7 @@
             ]
         },
         "CM006-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 11:36 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7081,7 +7081,7 @@
             ]
         },
         "CM007-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 12:50 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7094,7 +7094,7 @@
             ]
         },
         "CM008-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 13:08 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7109,7 +7109,7 @@
             ]
         },
         "CM010-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 13:56 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7123,7 +7123,7 @@
             ]
         },
         "CM011-071026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "07\/10\/2026 · 15:13 hrs",
             "creada": "2026-10-07",
             "progreso": {
@@ -7137,7 +7137,7 @@
             ]
         },
         "CM001-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 08:56 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7151,7 +7151,7 @@
             ]
         },
         "CM002-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 09:39 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7167,7 +7167,7 @@
             ]
         },
         "CM003-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 10:02 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7180,7 +7180,7 @@
             ]
         },
         "CM004-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 10:17 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7194,7 +7194,7 @@
             ]
         },
         "CM005-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 10:27 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7207,7 +7207,7 @@
             ]
         },
         "CM006-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 10:40 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7221,7 +7221,7 @@
             ]
         },
         "CM007-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 10:55 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7235,7 +7235,7 @@
             ]
         },
         "CM008-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:14 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7248,7 +7248,7 @@
             ]
         },
         "CM009-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:26 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7264,7 +7264,7 @@
             ]
         },
         "CM010-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:27 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7278,23 +7278,23 @@
             ]
         },
         "CM011-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:29 hrs",
             "creada": "2026-10-08",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
         },
         "CM012-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:33 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7308,7 +7308,7 @@
             ]
         },
         "CM013-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 11:50 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7322,7 +7322,7 @@
             ]
         },
         "CM014-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 12:07 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7336,7 +7336,7 @@
             ]
         },
         "CM015-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 12:17 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7350,7 +7350,7 @@
             ]
         },
         "CM016-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 12:57 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7363,7 +7363,7 @@
             ]
         },
         "CM017-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 13:10 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7376,7 +7376,7 @@
             ]
         },
         "CM018-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 13:15 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7389,7 +7389,7 @@
             ]
         },
         "CM019-081026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "08\/10\/2026 · 15:38 hrs",
             "creada": "2026-10-08",
             "progreso": {
@@ -7402,7 +7402,7 @@
             ]
         },
         "CM001-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 09:51 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7420,7 +7420,7 @@
             "tramites": []
         },
         "CM003-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 10:33 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7433,7 +7433,7 @@
             ]
         },
         "CM004-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 10:41 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7446,7 +7446,7 @@
             ]
         },
         "CM005-091026": {
-            "estatus": "ATENDIDA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 10:51 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7459,7 +7459,7 @@
             ]
         },
         "CM006-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 11:24 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7472,7 +7472,7 @@
             ]
         },
         "CM007-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 11:34 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7485,7 +7485,7 @@
             ]
         },
         "CM008-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 11:50 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7504,7 +7504,7 @@
             "tramites": []
         },
         "CM010-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 12:33 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7517,7 +7517,7 @@
             ]
         },
         "CM011-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 13:00 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7530,7 +7530,7 @@
             ]
         },
         "CM012-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 13:24 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7543,7 +7543,7 @@
             ]
         },
         "CM013-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 13:52 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7556,7 +7556,7 @@
             ]
         },
         "CM014-091026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "09\/10\/2026 · 14:05 hrs",
             "creada": "2026-10-09",
             "progreso": {
@@ -7569,7 +7569,7 @@
             ]
         },
         "CM001-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:18 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7582,7 +7582,7 @@
             ]
         },
         "CM002-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:25 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7595,7 +7595,7 @@
             ]
         },
         "CM003-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:36 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7608,7 +7608,7 @@
             ]
         },
         "CM004-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:44 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7621,7 +7621,7 @@
             ]
         },
         "CM005-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:51 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7634,7 +7634,7 @@
             ]
         },
         "CM006-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 09:59 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7647,7 +7647,7 @@
             ]
         },
         "CM007-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 10:45 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7661,7 +7661,7 @@
             ]
         },
         "CM008-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 10:56 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7678,7 +7678,7 @@
             ]
         },
         "CM009-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 11:05 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7693,7 +7693,7 @@
             ]
         },
         "CM010-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 11:41 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7711,7 +7711,7 @@
             "tramites": []
         },
         "CM012-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 12:37 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7725,7 +7725,7 @@
             ]
         },
         "CM013-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 13:09 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7738,7 +7738,7 @@
             ]
         },
         "CM014-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 13:52 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7751,7 +7751,7 @@
             ]
         },
         "CM015-121026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "12\/10\/2026 · 13:59 hrs",
             "creada": "2026-10-12",
             "progreso": {
@@ -7764,7 +7764,7 @@
             ]
         },
         "CM001-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 08:53 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7777,7 +7777,7 @@
             ]
         },
         "CM002-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 10:31 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7790,7 +7790,7 @@
             ]
         },
         "CM003-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 10:38 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7803,7 +7803,7 @@
             ]
         },
         "CM004-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 10:45 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7817,7 +7817,7 @@
             ]
         },
         "CM005-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 11:06 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7831,7 +7831,7 @@
             ]
         },
         "CM006-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 11:17 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7844,7 +7844,7 @@
             ]
         },
         "CM007-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 11:29 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7857,7 +7857,7 @@
             ]
         },
         "CM008-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 11:44 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7870,7 +7870,7 @@
             ]
         },
         "CM009-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 12:13 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7883,7 +7883,7 @@
             ]
         },
         "CM010-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 12:30 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7899,7 +7899,7 @@
             ]
         },
         "CM011-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 12:36 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7912,7 +7912,7 @@
             ]
         },
         "CM012-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 12:43 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7925,7 +7925,7 @@
             ]
         },
         "CM013-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 12:47 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7938,7 +7938,7 @@
             ]
         },
         "CM014-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 13:03 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7952,7 +7952,7 @@
             ]
         },
         "CM015-131026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "13\/10\/2026 · 13:50 hrs",
             "creada": "2026-10-13",
             "progreso": {
@@ -7966,7 +7966,7 @@
             ]
         },
         "CM001-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 09:34 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -7979,7 +7979,7 @@
             ]
         },
         "CM002-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 09:43 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -7993,7 +7993,7 @@
             ]
         },
         "CM003-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 10:10 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8014,7 +8014,7 @@
             "tramites": []
         },
         "CM005-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 10:29 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8027,7 +8027,7 @@
             ]
         },
         "CM006-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 10:38 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8040,7 +8040,7 @@
             ]
         },
         "CM007-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 10:45 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8054,7 +8054,7 @@
             ]
         },
         "CM008-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 10:59 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8067,7 +8067,7 @@
             ]
         },
         "CM009-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 11:08 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8080,7 +8080,7 @@
             ]
         },
         "CM010-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 11:20 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8093,7 +8093,7 @@
             ]
         },
         "CM011-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 11:30 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8108,7 +8108,7 @@
             ]
         },
         "CM012-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 11:45 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8123,7 +8123,7 @@
             ]
         },
         "CM013-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 12:32 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8137,7 +8137,7 @@
             ]
         },
         "CM014-141026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "14\/10\/2026 · 12:55 hrs",
             "creada": "2026-10-14",
             "progreso": {
@@ -8150,7 +8150,7 @@
             ]
         },
         "CM001-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:06 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8163,7 +8163,7 @@
             ]
         },
         "CM002-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:13 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8177,7 +8177,7 @@
             ]
         },
         "CM003-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:23 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8191,7 +8191,7 @@
             ]
         },
         "CM004-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:36 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8204,7 +8204,7 @@
             ]
         },
         "CM005-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:45 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8217,7 +8217,7 @@
             ]
         },
         "CM006-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 10:53 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8231,7 +8231,7 @@
             ]
         },
         "CM007-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 11:07 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8244,7 +8244,7 @@
             ]
         },
         "CM008-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 11:15 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8257,7 +8257,7 @@
             ]
         },
         "CM009-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 11:25 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8270,7 +8270,7 @@
             ]
         },
         "CM010-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 12:00 hrs",
             "creada": "2026-10-15",
             "progreso": {
@@ -8288,7 +8288,7 @@
             ]
         },
         "CM011-151026": {
-            "estatus": "GENERADA",
+            "estatus": "EXPORTADA",
             "fecha": "15\/10\/2026 · 12:32 hrs",
             "creada": "2026-10-15",
             "progreso": {
