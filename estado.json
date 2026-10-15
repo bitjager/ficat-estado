@@ -3543,7 +3543,7 @@
                 "listo": true
             },
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM011-100926": {
