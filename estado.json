@@ -8084,12 +8084,12 @@
             "fecha": "14\/10\/2026 · 11:20 hrs",
             "creada": "2026-10-14",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM011-141026": {
