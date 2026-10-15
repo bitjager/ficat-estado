@@ -637,7 +637,7 @@
             },
             "tramites": [
                 "ENTREGADO",
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         },
         "CM023-190826": {
