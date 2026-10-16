@@ -8184,12 +8184,12 @@
             "fecha": "16\/10\/2026 · 10:46 hrs",
             "creada": "2026-10-16",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
