@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-19 20:10",
+    "actualizado": "2026-10-19 20:35",
     "fichas": {
         "PRUEBA-CM001-310826": {
             "estatus": "GENERADA",
@@ -228,12 +228,12 @@
             "fecha": "12\/10\/2026 · 20:38 hrs",
             "creada": "2026-10-12",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
