@@ -410,12 +410,12 @@
             "fecha": "26\/08\/2026 · 09:58 hrs",
             "creada": "2026-08-26",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM011-260826": {
