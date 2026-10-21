@@ -2825,11 +2825,11 @@
             "creada": "2026-09-14",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
-                "EN_ESTADO_CUENTA",
+                "EN_PROCESO",
                 "LISTO_ENTREGA"
             ]
         },
