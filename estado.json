@@ -7906,7 +7906,7 @@
             ]
         },
         "CM009-211026": {
-            "estatus": "GENERADA",
+            "estatus": "ATENDIDA",
             "fecha": "21\/10\/2026 · 11:40 hrs",
             "creada": "2026-10-21",
             "progreso": {
@@ -7915,7 +7915,7 @@
                 "listo": true
             },
             "tramites": [
-                "LISTO_ENTREGA"
+                "ENTREGADO"
             ]
         }
     }
