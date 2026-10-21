@@ -7638,12 +7638,12 @@
             "fecha": "20\/10\/2026 · 09:57 hrs",
             "creada": "2026-10-20",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM004-201026": {
