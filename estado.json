@@ -6786,7 +6786,7 @@
             },
             "tramites": [
                 "EN_PROCESO",
-                "REQUIERE_ATENCION"
+                "EN_PROCESO"
             ]
         },
         "CM001-141026": {
