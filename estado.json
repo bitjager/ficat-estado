@@ -305,17 +305,9 @@
             ]
         },
         "PRUEBA-CM001-211026": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "21\/10\/2026 · 22:40 hrs",
-            "creada": "2026-10-21",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         }
     }
 }
