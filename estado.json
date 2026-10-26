@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-26 10:22",
+    "actualizado": "2026-10-26 10:41",
     "fichas": {
         "CM010-270826": {
             "estatus": "EXPORTADA",
@@ -7415,16 +7415,16 @@
             "progreso": {
                 "revision": false,
                 "regreso": false,
-                "listo": false
+                "listo": true
             },
             "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA",
+                "LISTO_ENTREGA"
             ]
         },
         "CM006-261026": {
