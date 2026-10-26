@@ -6369,7 +6369,7 @@
             },
             "tramites": [
                 "LISTO_ENTREGA",
-                "REQUIERE_ATENCION"
+                "EN_PROCESO"
             ]
         },
         "CM005-161026": {
