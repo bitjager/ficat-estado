@@ -7457,6 +7457,25 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "CM005-261026": {
+            "estatus": "GENERADA",
+            "fecha": "26\/10\/2026 · 09:30 hrs",
+            "creada": "2026-10-26",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
         }
     }
 }
