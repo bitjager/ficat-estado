@@ -3319,7 +3319,7 @@
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "REQUIERE_ATENCION",
                 "REQUIERE_ATENCION",
                 "REQUIERE_ATENCION"
