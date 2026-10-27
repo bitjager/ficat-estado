@@ -3320,7 +3320,7 @@
             },
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "REQUIERE_ATENCION",
                 "REQUIERE_ATENCION"
             ]
