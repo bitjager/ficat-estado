@@ -7856,12 +7856,12 @@
             "fecha": "30\/10\/2026 · 08:51 hrs",
             "creada": "2026-10-30",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM002-301026": {
