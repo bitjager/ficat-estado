@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-10-30 10:18",
+    "actualizado": "2026-10-30 10:19",
     "fichas": {
         "CM007-310826": {
             "estatus": "EXPORTADA",
@@ -4197,12 +4197,12 @@
             "fecha": "01\/10\/2026 · 13:45 hrs",
             "creada": "2026-10-01",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM001-021026": {
