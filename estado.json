@@ -7416,17 +7416,9 @@
             ]
         },
         "CM006-041126": {
-            "estatus": "GENERADA",
+            "estatus": "CANCELADA",
             "fecha": "04\/11\/2026 · 09:35 hrs",
-            "creada": "2026-11-04",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO"
-            ]
+            "tramites": []
         },
         "CM007-041126": {
             "estatus": "GENERADA",
