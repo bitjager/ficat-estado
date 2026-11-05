@@ -7386,7 +7386,7 @@
                 "listo": false
             },
             "tramites": [
-                "REQUIERE_ATENCION",
+                "EN_PROCESO",
                 "EN_PROCESO"
             ]
         },
