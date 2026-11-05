@@ -7142,12 +7142,12 @@
             "fecha": "03\/11\/2026 · 09:17 hrs",
             "creada": "2026-11-03",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM003-031126": {
