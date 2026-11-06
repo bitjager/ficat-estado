@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-05 22:33",
+    "actualizado": "2026-11-05 23:02",
     "fichas": {
         "PRUEBA-CM002-300926": {
             "estatus": "GENERADA",
@@ -319,6 +319,21 @@
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "PRUEBA-CM002-051126": {
+            "estatus": "GENERADA",
+            "fecha": "05\/11\/2026 · 23:02 hrs",
+            "creada": "2026-11-05",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO"
