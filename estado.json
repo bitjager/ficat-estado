@@ -1137,7 +1137,7 @@
             },
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_ESTADO_CUENTA",
+                "EN_PROCESO",
                 "EN_ESTADO_CUENTA"
             ]
         },
