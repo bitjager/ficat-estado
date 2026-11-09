@@ -1132,13 +1132,13 @@
             "creada": "2026-09-22",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
                 "LISTO_ENTREGA",
                 "LISTO_ENTREGA",
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM022-220926": {
