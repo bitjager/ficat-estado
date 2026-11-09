@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-09 11:10",
+    "actualizado": "2026-11-09 11:14",
     "fichas": {
         "CM011-100926": {
             "estatus": "EXPORTADA",
@@ -7418,6 +7418,19 @@
             "estatus": "CANCELADA",
             "fecha": "09\/11\/2026 · 11:05 hrs",
             "tramites": []
+        },
+        "CM008-091126": {
+            "estatus": "GENERADA",
+            "fecha": "09\/11\/2026 · 11:14 hrs",
+            "creada": "2026-11-09",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
