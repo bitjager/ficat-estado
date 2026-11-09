@@ -1,20 +1,6 @@
 {
-    "actualizado": "2026-11-09 10:11",
+    "actualizado": "2026-11-09 10:53",
     "fichas": {
-        "CM008-100926": {
-            "estatus": "EXPORTADA",
-            "fecha": "10\/09\/2026 · 10:42 hrs",
-            "creada": "2026-09-10",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO",
-                "EN_PROCESO"
-            ]
-        },
         "CM009-100926": {
             "estatus": "EXPORTADA",
             "fecha": "10\/09\/2026 · 10:57 hrs",
@@ -7416,6 +7402,20 @@
         "CM005-091126": {
             "estatus": "GENERADA",
             "fecha": "09\/11\/2026 · 10:11 hrs",
+            "creada": "2026-11-09",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "CM006-091126": {
+            "estatus": "GENERADA",
+            "fecha": "09\/11\/2026 · 10:53 hrs",
             "creada": "2026-11-09",
             "progreso": {
                 "revision": false,
