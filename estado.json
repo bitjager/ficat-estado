@@ -3273,7 +3273,7 @@
             },
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "EN_ESTADO_CUENTA",
                 "LISTO_ENTREGA"
             ]
