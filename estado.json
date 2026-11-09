@@ -1133,12 +1133,12 @@
             "progreso": {
                 "revision": true,
                 "regreso": true,
-                "listo": false
+                "listo": true
             },
             "tramites": [
                 "LISTO_ENTREGA",
                 "LISTO_ENTREGA",
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM022-220926": {
