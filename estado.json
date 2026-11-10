@@ -1,33 +1,6 @@
 {
-    "actualizado": "2026-11-10 10:52",
+    "actualizado": "2026-11-10 11:07",
     "fichas": {
-        "CM004-110926": {
-            "estatus": "EXPORTADA",
-            "fecha": "11\/09\/2026 · 10:55 hrs",
-            "creada": "2026-09-11",
-            "progreso": {
-                "revision": true,
-                "regreso": true,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO"
-            ]
-        },
-        "CM005-110926": {
-            "estatus": "EXPORTADA",
-            "fecha": "11\/09\/2026 · 11:04 hrs",
-            "creada": "2026-09-11",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": false
-            },
-            "tramites": [
-                "EN_PROCESO",
-                "ENTREGADO"
-            ]
-        },
         "CM006-110926": {
             "estatus": "EXPORTADA",
             "fecha": "11\/09\/2026 · 11:17 hrs",
@@ -2830,19 +2803,6 @@
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO"
-            ]
-        },
-        "CM010-051026": {
-            "estatus": "EXPORTADA",
-            "fecha": "05\/10\/2026 · 11:44 hrs",
-            "creada": "2026-10-05",
-            "progreso": {
-                "revision": true,
-                "regreso": true,
-                "listo": true
-            },
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM011-051026": {
@@ -7622,6 +7582,19 @@
             },
             "tramites": [
                 "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "CM012-101126": {
+            "estatus": "GENERADA",
+            "fecha": "10\/11\/2026 · 11:07 hrs",
+            "creada": "2026-11-10",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
                 "EN_PROCESO"
             ]
         }
