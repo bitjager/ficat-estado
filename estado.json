@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-11 15:33",
+    "actualizado": "2026-11-11 16:08",
     "fichas": {
         "CM001-140926": {
             "estatus": "EXPORTADA",
@@ -2342,7 +2342,7 @@
                 "listo": true
             },
             "tramites": [
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "LISTO_ENTREGA"
             ]
         },
