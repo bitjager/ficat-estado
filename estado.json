@@ -6883,7 +6883,7 @@
                 "listo": false
             },
             "tramites": [
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "EN_PROCESO"
             ]
         },
