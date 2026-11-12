@@ -7501,12 +7501,12 @@
             "fecha": "10\/11\/2026 · 10:31 hrs",
             "creada": "2026-11-10",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM011-101126": {
