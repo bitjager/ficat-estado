@@ -7436,11 +7436,11 @@
             "progreso": {
                 "revision": false,
                 "regreso": false,
-                "listo": false
+                "listo": true
             },
             "tramites": [
                 "ENTREGADO",
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM006-101126": {
