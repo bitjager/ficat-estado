@@ -7784,12 +7784,12 @@
             "fecha": "11\/11\/2026 · 10:55 hrs",
             "creada": "2026-11-11",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM001-121126": {
