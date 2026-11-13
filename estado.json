@@ -4844,7 +4844,7 @@
             },
             "tramites": [
                 "REQUIERE_ATENCION",
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM006-211026": {
