@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-17 08:45",
+    "actualizado": "2026-11-17 08:49",
     "fichas": {
         "CM002-180926": {
             "estatus": "EXPORTADA",
@@ -6786,11 +6786,11 @@
             "creada": "2026-11-09",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM005-091126": {
