@@ -6761,10 +6761,10 @@
             "progreso": {
                 "revision": true,
                 "regreso": true,
-                "listo": false
+                "listo": true
             },
             "tramites": [
-                "EN_PROCESO"
+                "LISTO_ENTREGA"
             ]
         },
         "CM003-091126": {
@@ -7763,6 +7763,19 @@
         "CM001-171126": {
             "estatus": "GENERADA",
             "fecha": "17\/11\/2026 · 08:45 hrs",
+            "creada": "2026-11-17",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
+        },
+        "CM002-171126": {
+            "estatus": "GENERADA",
+            "fecha": "17\/11\/2026 · 08:54 hrs",
             "creada": "2026-11-17",
             "progreso": {
                 "revision": false,
