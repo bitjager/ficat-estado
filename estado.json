@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-18 15:48",
+    "actualizado": "2026-11-19 08:51",
     "fichas": {
         "CM001-210926": {
             "estatus": "EXPORTADA",
@@ -6051,19 +6051,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM014-041126": {
-            "estatus": "EXPORTADA",
-            "fecha": "04\/11\/2026 · 12:42 hrs",
-            "creada": "2026-11-04",
-            "progreso": {
-                "revision": true,
-                "regreso": true,
-                "listo": true
-            },
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM015-041126": {
             "estatus": "EXPORTADA",
             "fecha": "04\/11\/2026 · 14:06 hrs",
@@ -6209,19 +6196,6 @@
                 "EN_PROCESO"
             ]
         },
-        "CM011-051126": {
-            "estatus": "EXPORTADA",
-            "fecha": "05\/11\/2026 · 10:31 hrs",
-            "creada": "2026-11-05",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": true
-            },
-            "tramites": [
-                "ENTREGADO"
-            ]
-        },
         "CM001-061126": {
             "estatus": "EXPORTADA",
             "fecha": "05\/11\/2026 · 10:49 hrs",
@@ -6365,19 +6339,6 @@
             },
             "tramites": [
                 "EN_PROCESO"
-            ]
-        },
-        "CM011-061126": {
-            "estatus": "EXPORTADA",
-            "fecha": "06\/11\/2026 · 09:54 hrs",
-            "creada": "2026-11-06",
-            "progreso": {
-                "revision": false,
-                "regreso": false,
-                "listo": true
-            },
-            "tramites": [
-                "ENTREGADO"
             ]
         },
         "CM012-061126": {
@@ -7995,6 +7956,19 @@
                 "EN_PROCESO",
                 "EN_PROCESO",
                 "EN_PROCESO",
+                "EN_PROCESO"
+            ]
+        },
+        "CM003-191126": {
+            "estatus": "GENERADA",
+            "fecha": "19\/11\/2026 · 08:51 hrs",
+            "creada": "2026-11-19",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
                 "EN_PROCESO"
             ]
         }
