@@ -7344,7 +7344,7 @@
             },
             "tramites": [
                 "EN_PROCESO",
-                "EN_PROCESO",
+                "LISTO_ENTREGA",
                 "LISTO_ENTREGA"
             ]
         },
