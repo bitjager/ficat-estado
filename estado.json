@@ -7474,6 +7474,19 @@
                 "EN_PROCESO",
                 "EN_PROCESO"
             ]
+        },
+        "CM003-251126": {
+            "estatus": "GENERADA",
+            "fecha": "24\/11\/2026 · 15:46 hrs",
+            "creada": "2026-11-24",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
