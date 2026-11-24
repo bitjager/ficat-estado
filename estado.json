@@ -397,12 +397,12 @@
             "fecha": "29\/09\/2026 · 09:52 hrs",
             "creada": "2026-09-29",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO"
+                "EN_ESTADO_CUENTA"
             ]
         },
         "CM007-290926": {
