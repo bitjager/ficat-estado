@@ -7497,6 +7497,19 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "CM008-241126": {
+            "estatus": "GENERADA",
+            "fecha": "24\/11\/2026 · 09:52 hrs",
+            "creada": "2026-11-24",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
