@@ -5555,12 +5555,12 @@
             "fecha": "09\/11\/2026 · 12:22 hrs",
             "creada": "2026-11-09",
             "progreso": {
-                "revision": false,
+                "revision": true,
                 "regreso": false,
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "EN_ESTADO_CUENTA",
                 "EN_PROCESO"
             ]
         },
