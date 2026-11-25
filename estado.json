@@ -1,5 +1,5 @@
 {
-    "actualizado": "2026-11-25 15:24",
+    "actualizado": "2026-11-25 15:25",
     "fichas": {
         "CM001-280926": {
             "estatus": "EXPORTADA",
@@ -4478,7 +4478,7 @@
                 "listo": false
             },
             "tramites": [
-                "EN_PROCESO",
+                "REQUIERE_ATENCION",
                 "EN_PROCESO"
             ]
         },
