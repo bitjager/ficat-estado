@@ -2396,7 +2396,7 @@
                 "listo": true
             },
             "tramites": [
-                "LISTO_ENTREGA",
+                "ENTREGADO",
                 "ENTREGADO"
             ]
         },
