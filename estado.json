@@ -4479,7 +4479,7 @@
             },
             "tramites": [
                 "REQUIERE_ATENCION",
-                "EN_PROCESO"
+                "REQUIERE_ATENCION"
             ]
         },
         "CM009-301026": {
