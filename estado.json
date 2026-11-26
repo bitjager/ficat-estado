@@ -5360,12 +5360,12 @@
             "creada": "2026-11-09",
             "progreso": {
                 "revision": true,
-                "regreso": false,
+                "regreso": true,
                 "listo": false
             },
             "tramites": [
                 "LISTO_ENTREGA",
-                "EN_ESTADO_CUENTA"
+                "EN_PROCESO"
             ]
         },
         "CM015-091126": {
