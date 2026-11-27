@@ -7948,6 +7948,19 @@
             "tramites": [
                 "EN_PROCESO"
             ]
+        },
+        "CM010-271126": {
+            "estatus": "GENERADA",
+            "fecha": "27\/11\/2026 · 10:12 hrs",
+            "creada": "2026-11-27",
+            "progreso": {
+                "revision": false,
+                "regreso": false,
+                "listo": false
+            },
+            "tramites": [
+                "EN_PROCESO"
+            ]
         }
     }
 }
